@@ -1,4 +1,4 @@
-### Hi there 👋 i'm anas Student at 1337
+### Hi there 👋 i'm Anas Mejdoub
 [![amejdoub's 42 stats](https://badge.mediaplus.ma/greenbinary/amejdoub)](https://github.com/oakoudad/badge42)
 <!--
 **22meej/22meej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
