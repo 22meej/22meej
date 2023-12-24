@@ -1,5 +1,5 @@
 ### Hi there 👋 i'm Anas Mejdoub
-[![amejdoub's 42 stats](https://badge.mediaplus.ma/greenbinary/amejdoub)](https://github.com/oakoudad/badge42)
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/amejdoub" alt="amejdoub's 42 stats" /></a>
 <!--
 **22meej/22meej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
