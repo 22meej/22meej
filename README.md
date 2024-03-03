@@ -1,5 +1,5 @@
-<a href="https://github.com/22meej"><img src="https://badge.mediaplus.ma/darkblue/amejdoub" alt="amejdoub's 42 stats" /></a>
 <h1 align="center">Hi 👋, I'm Anas mejdoub</h1>
+<a align="center" href="https://github.com/22meej"><img src="https://badge.mediaplus.ma/darkblue/amejdoub" alt="amejdoub's 42 stats" /></a>
 <p align="left">
 </p>
 
