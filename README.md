@@ -3,7 +3,7 @@
 <p align="left">
 </p>
 <h2>My Github Stats :</h2>
-<img src="https://streak-stats.demolab.com?user=anas-mejdoub&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<img src="https://streak-stats.demolab.com?user=anas-mejdoub&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anas-mejdoub&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anas-mejdoub&theme=tokyonight"/> -->
 <h3 align="left">Languages and Tools:</h3>
