@@ -1,4 +1,5 @@
 <h1 align="left">Hi 👋, I'm Anas mejdoub</h1>
+<br/>
 <picture>
   <img align="right" src="coding.gif" width = 250px>
 </picture>
