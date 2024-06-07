@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Anas mejdoub</h1>
 
-<a align="center" href="https://github.com/anas-mejdoub"><img lign="center" src="https://badge.mediaplus.ma/dark-blue/amejdoub" alt="amejdoub's 42 stats" /></a>
+<a align="center" href="https://github.com/anas-mejdoub"><img lign="center" src="https://badge.mediaplus.ma/darkblue/amejdoub" alt="amejdoub's 42 stats" /></a>
 <p align="left">
 </p>
 <h2>My Github Stats :</h2>
