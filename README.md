@@ -7,6 +7,13 @@
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=anas-mejdoub&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
 </picture>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <a align="center"  href="https://github.com/anas-mejdoub"><img lign="center" src="https://badge.mediaplus.ma/darkblue/amejdoub" alt="amejdoub's 42 stats" /></a>
 </div>
 <!-- <p align="left"> -->
