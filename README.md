@@ -1,10 +1,13 @@
 <h1 align="left">Hi 👋, I'm Anas mejdoub</h1>
+<div align=""center>
+  
 <a align="center" href="https://github.com/anas-mejdoub"><img lign="center" src="https://badge.mediaplus.ma/darkblue/amejdoub" alt="amejdoub's 42 stats" /></a>
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=anas-mejdoub&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
   <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=anas-mejdoub&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%235580eb%2C%20%232aeeff)">
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=anas-mejdoub&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
 </picture>
+</div>
 <!-- <p align="left"> -->
 <!-- </p> -->
 <!-- <h2>My Github Stats :</h2> -->
