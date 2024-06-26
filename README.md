@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Anas mejdoub</h1>
+<h1 align="left">Hi there, I'm Anas mejdoub</h1>
 <div align="center">
   
 <!-- <picture decoding="async" loading="lazy"> -->
