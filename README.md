@@ -8,7 +8,7 @@
 <!-- </picture> -->
 <br/>
 <br/>
-<a align="center"  href="https://github.com/anas-mejdoub"><img lign="center" src="https://badge.mediaplus.ma/greenbinary/amejdoub" alt="amejdoub's 42 stats" /></a>
+<a align="center"  href="https://github.com/anas-mejdoub"><img lign="center" src="https://badge.mediaplus.ma/starryblue/amejdoub" alt="amejdoub's 42 stats" /></a>
 </div>
 <br/>
 <!-- <p align="left"> -->
